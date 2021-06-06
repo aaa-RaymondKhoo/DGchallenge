@@ -47,7 +47,10 @@ class App extends React.Component {
           //   'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/45px-Flag_of_Alabama.svg.png'
           // ),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/45px-Flag_of_Alabama.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Alabama.svg/45px-Flag_of_Alabama.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -57,7 +60,10 @@ class App extends React.Component {
           sPop: numberFormatter(731158),
           sSize: numberFormatter(665384.04),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/43px-Flag_of_Alaska.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/43px-Flag_of_Alaska.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -67,7 +73,10 @@ class App extends React.Component {
           sPop: numberFormatter(7421401),
           sSize: numberFormatter(113990.3),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/45px-Flag_of_Arizona.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/45px-Flag_of_Arizona.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -77,7 +86,10 @@ class App extends React.Component {
           sPop: numberFormatter(3030522),
           sSize: numberFormatter(52178.55),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/45px-Flag_of_Arkansas.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/45px-Flag_of_Arkansas.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -87,7 +99,10 @@ class App extends React.Component {
           sPop: numberFormatter(39368078),
           sSize: numberFormatter(163694.74),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/45px-Flag_of_California.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -97,7 +112,10 @@ class App extends React.Component {
           sPop: numberFormatter(5807719),
           sSize: numberFormatter(104093.67),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/45px-Flag_of_Colorado.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Colorado.svg/45px-Flag_of_Colorado.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -107,7 +125,10 @@ class App extends React.Component {
           sPop: numberFormatter(3557006),
           sSize: numberFormatter(5543.41),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/39px-Flag_of_Connecticut.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_Connecticut.svg/39px-Flag_of_Connecticut.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -117,7 +138,10 @@ class App extends React.Component {
           sPop: numberFormatter(986809),
           sSize: numberFormatter(2488.72),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/45px-Flag_of_Delaware.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Flag_of_Delaware.svg/45px-Flag_of_Delaware.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -127,7 +151,10 @@ class App extends React.Component {
           sPop: numberFormatter(712816),
           sSize: numberFormatter(68.34),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/46px-Flag_of_the_District_of_Columbia.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_District_of_Columbia.svg/46px-Flag_of_the_District_of_Columbia.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -137,7 +164,10 @@ class App extends React.Component {
           sPop: numberFormatter(21733312),
           sSize: numberFormatter(65757.7),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/45px-Flag_of_Florida.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/45px-Flag_of_Florida.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -147,7 +177,10 @@ class App extends React.Component {
           sPop: numberFormatter(10710017),
           sSize: numberFormatter(59425.15),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/46px-Flag_of_Georgia_%28U.S._state%29.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Georgia_%28U.S._state%29.svg/46px-Flag_of_Georgia_%28U.S._state%29.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -157,7 +190,10 @@ class App extends React.Component {
           sPop: numberFormatter(1407006),
           sSize: numberFormatter(10931.72),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/46px-Flag_of_Hawaii.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Hawaii.svg/46px-Flag_of_Hawaii.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -167,7 +203,10 @@ class App extends React.Component {
           sPop: numberFormatter(1826913),
           sSize: numberFormatter(83568.95),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/38px-Flag_of_Idaho.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/38px-Flag_of_Idaho.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -177,7 +216,10 @@ class App extends React.Component {
           sPop: numberFormatter(12587530),
           sSize: numberFormatter(57913.55),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/46px-Flag_of_Illinois.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Illinois.svg/46px-Flag_of_Illinois.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -187,7 +229,10 @@ class App extends React.Component {
           sPop: numberFormatter(6743953),
           sSize: numberFormatter(36419.55),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/45px-Flag_of_Indiana.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Flag_of_Indiana.svg/45px-Flag_of_Indiana.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -197,7 +242,10 @@ class App extends React.Component {
           sPop: numberFormatter(3163561),
           sSize: numberFormatter(56272.81),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/45px-Flag_of_Iowa.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Iowa.svg/45px-Flag_of_Iowa.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -207,7 +255,10 @@ class App extends React.Component {
           sPop: numberFormatter(2913805),
           sSize: numberFormatter(82278.36),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/46px-Flag_of_Kansas.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/46px-Flag_of_Kansas.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -217,7 +268,10 @@ class App extends React.Component {
           sPop: numberFormatter(4477251),
           sSize: numberFormatter(40407.8),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/46px-Flag_of_Kentucky.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/46px-Flag_of_Kentucky.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -227,7 +281,10 @@ class App extends React.Component {
           sPop: numberFormatter(4645318),
           sSize: numberFormatter(52378.13),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/46px-Flag_of_Louisiana.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Louisiana.svg/46px-Flag_of_Louisiana.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -237,7 +294,10 @@ class App extends React.Component {
           sPop: numberFormatter(1350141),
           sSize: numberFormatter(35379.74),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/38px-Flag_of_Maine.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Maine.svg/38px-Flag_of_Maine.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -247,7 +307,10 @@ class App extends React.Component {
           sPop: numberFormatter(6055802),
           sSize: numberFormatter(12405.93),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/45px-Flag_of_Maryland.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Maryland.svg/45px-Flag_of_Maryland.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -257,7 +320,10 @@ class App extends React.Component {
           sPop: numberFormatter(6893574),
           sSize: numberFormatter(10554.39),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/46px-Flag_of_Massachusetts.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -267,7 +333,10 @@ class App extends React.Component {
           sPop: numberFormatter(9966555),
           sSize: numberFormatter(96713.51),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/45px-Flag_of_Michigan.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Michigan.svg/45px-Flag_of_Michigan.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -277,7 +346,10 @@ class App extends React.Component {
           sPop: numberFormatter(5657342),
           sSize: numberFormatter(86935.83),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/46px-Flag_of_Minnesota.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Minnesota.svg/46px-Flag_of_Minnesota.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -287,7 +359,10 @@ class App extends React.Component {
           sPop: numberFormatter(2966786),
           sSize: numberFormatter(48431.78),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/46px-Flag_of_Mississippi.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Mississippi.svg/46px-Flag_of_Mississippi.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -297,7 +372,10 @@ class App extends React.Component {
           sPop: numberFormatter(6151548),
           sSize: numberFormatter(69706.99),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/46px-Flag_of_Missouri.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Missouri.svg/46px-Flag_of_Missouri.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -307,7 +385,10 @@ class App extends React.Component {
           sPop: numberFormatter(1080577),
           sSize: numberFormatter(147039.71),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/45px-Flag_of_Montana.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/45px-Flag_of_Montana.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -317,7 +398,10 @@ class App extends React.Component {
           sPop: numberFormatter(1937552),
           sSize: numberFormatter(77347.81),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/46px-Flag_of_Nebraska.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Nebraska.svg/46px-Flag_of_Nebraska.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -327,7 +411,10 @@ class App extends React.Component {
           sPop: numberFormatter(3138259),
           sSize: numberFormatter(110571.82),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/45px-Flag_of_Nevada.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/45px-Flag_of_Nevada.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -337,7 +424,10 @@ class App extends React.Component {
           sPop: numberFormatter(1366275),
           sSize: numberFormatter(9349.16),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/45px-Flag_of_New_Hampshire.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_New_Hampshire.svg/45px-Flag_of_New_Hampshire.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -347,7 +437,10 @@ class App extends React.Component {
           sPop: numberFormatter(8882371),
           sSize: numberFormatter(8722.58),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/46px-Flag_of_New_Jersey.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/46px-Flag_of_New_Jersey.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -357,7 +450,10 @@ class App extends React.Component {
           sPop: numberFormatter(2106319),
           sSize: numberFormatter(121590.3),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/45px-Flag_of_New_Mexico.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/45px-Flag_of_New_Mexico.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -367,7 +463,10 @@ class App extends React.Component {
           sPop: numberFormatter(19336776),
           sSize: numberFormatter(54554.98),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/46px-Flag_of_New_York.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_New_York.svg/46px-Flag_of_New_York.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -377,7 +476,10 @@ class App extends React.Component {
           sPop: numberFormatter(10600823),
           sSize: numberFormatter(53819.16),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/45px-Flag_of_North_Carolina.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_North_Carolina.svg/45px-Flag_of_North_Carolina.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -387,7 +489,10 @@ class App extends React.Component {
           sPop: numberFormatter(765309),
           sSize: numberFormatter(70698.32),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/41px-Flag_of_North_Dakota.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Flag_of_North_Dakota.svg/41px-Flag_of_North_Dakota.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -397,7 +502,10 @@ class App extends React.Component {
           sPop: numberFormatter(11693217),
           sSize: numberFormatter(44825.58),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/50px-Flag_of_Ohio.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Ohio.svg/50px-Flag_of_Ohio.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -407,7 +515,10 @@ class App extends React.Component {
           sPop: numberFormatter(3980783),
           sSize: numberFormatter(69898.87),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/45px-Flag_of_Oklahoma.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Oklahoma.svg/45px-Flag_of_Oklahoma.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -417,7 +528,10 @@ class App extends React.Component {
           sPop: numberFormatter(4241507),
           sSize: numberFormatter(98378.54),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/46px-Flag_of_Oregon.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Oregon.svg/46px-Flag_of_Oregon.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -427,7 +541,10 @@ class App extends React.Component {
           sPop: numberFormatter(12783254),
           sSize: numberFormatter(46054.34),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Pennsylvania.svg/45px-Flag_of_Pennsylvania.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -437,7 +554,10 @@ class App extends React.Component {
           sPop: numberFormatter(1057125),
           sSize: numberFormatter(1544.89),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/39px-Flag_of_Rhode_Island.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Rhode_Island.svg/39px-Flag_of_Rhode_Island.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -447,7 +567,10 @@ class App extends React.Component {
           sPop: numberFormatter(5218040),
           sSize: numberFormatter(32020.49),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/45px-Flag_of_South_Carolina.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_South_Carolina.svg/45px-Flag_of_South_Carolina.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -457,7 +580,10 @@ class App extends React.Component {
           sPop: numberFormatter(892717),
           sSize: numberFormatter(77115.68),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/46px-Flag_of_South_Dakota.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_South_Dakota.svg/46px-Flag_of_South_Dakota.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -467,7 +593,10 @@ class App extends React.Component {
           sPop: numberFormatter(6886834),
           sSize: numberFormatter(42114.25),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/46px-Flag_of_Tennessee.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Tennessee.svg/46px-Flag_of_Tennessee.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -477,7 +606,10 @@ class App extends React.Component {
           sPop: numberFormatter(29360759),
           sSize: numberFormatter(268596.46),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/45px-Flag_of_Texas.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/45px-Flag_of_Texas.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -487,7 +619,10 @@ class App extends React.Component {
           sPop: numberFormatter(3249879),
           sSize: numberFormatter(84896.88),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/46px-Flag_of_Utah.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Utah.svg/46px-Flag_of_Utah.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -497,7 +632,10 @@ class App extends React.Component {
           sPop: numberFormatter(623347),
           sSize: numberFormatter(9616.36),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/46px-Flag_of_Vermont.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/46px-Flag_of_Vermont.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -507,7 +645,10 @@ class App extends React.Component {
           sPop: numberFormatter(8590563),
           sSize: numberFormatter(42774.93),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Virginia_%283-2%29.svg/45px-Flag_of_Virginia_%283-2%29.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Virginia_%283-2%29.svg/45px-Flag_of_Virginia_%283-2%29.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -517,7 +658,10 @@ class App extends React.Component {
           sPop: numberFormatter(7693612),
           sSize: numberFormatter(71297.95),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/46px-Flag_of_Washington.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Washington.svg/46px-Flag_of_Washington.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -527,7 +671,10 @@ class App extends React.Component {
           sPop: numberFormatter(1784787),
           sSize: numberFormatter(24230.04),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/46px-Flag_of_West_Virginia.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/46px-Flag_of_West_Virginia.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -537,7 +684,10 @@ class App extends React.Component {
           sPop: numberFormatter(5832655),
           sSize: numberFormatter(65496.38),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/45px-Flag_of_Wisconsin.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Wisconsin.svg/45px-Flag_of_Wisconsin.svg.png'
+              alt=''
+            />
           ),
         },
         {
@@ -564,7 +714,10 @@ class App extends React.Component {
           //   />
           // ),
           sFlag: (
-            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/43px-Flag_of_Wyoming.svg.png' />
+            <img
+              src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/43px-Flag_of_Wyoming.svg.png'
+              alt=''
+            />
           ),
         },
       ],
